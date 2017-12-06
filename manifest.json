@@ -1,0 +1,16 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "scripts/background.js" ]
+      }
+   },
+   "description": "Webcam untuk recording",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png"
+   },
+   "manifest_version": 2,
+   "name": "Webcam App",
+   "permissions": [ "webview","alwaysOnTopWindows" ],
+   "version": "1.0.8"
+}
